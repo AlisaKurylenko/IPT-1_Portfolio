@@ -1,8 +1,7 @@
-Alisa Kurylenko
 # IPT1 · Lernsession 03 · GitHub-Flow & Markdown
 
-> **Name:** _Hier eintragen_  
-> **Datum:** _Hier eintragen_
+> **Name:** _Alisa Kurylenko_  
+> **Datum:** _14.09.2026_
 
 ## Ziel
 
@@ -16,35 +15,35 @@ Ich kann die wichtigsten Begriffe rund um **Git**, **GitHub**, den **GitHub-Flow
 
 ### 1. Was ist Git?
 
-**Meine Antwort:** DEINE ANTWORT
+**Meine Antwort:** Ein verteiltes Versionssteuerungssystem.
 
 ### 2. Was ist GitHub?
 
-**Meine Antwort:** DEINE ANTWORT
+**Meine Antwort:** Eine cloudbasierte Plattform, die auf Git aufbaut. Man kann Git-Projekte auf GitHUb speichern und mit anderen teilen.
 
 ### 3. Was ist der wichtigste Unterschied zwischen Git und GitHub?
 
-**Meine Antwort:** DEINE ANTWORT
+**Meine Antwort:** Git ist ein lokales Programm. GitHub ist eine cloudbasierte Plattform
 
 ### 4. Funktioniert Git auch ohne GitHub?
 
-**Meine Antwort:** DEINE ANTWORT
+**Meine Antwort:** Ja, das ist lokales Programm.
 
 ### 5. Was ist ein Repository (Repo)?
 
-**Meine Antwort:** DEINE ANTWORT
+**Meine Antwort:** Ein Projektordner, der alle Dateien und Versionsverlauf enthält.
 
 ### 6. Was ist der `main`-Branch?
 
-**Meine Antwort:** DEINE ANTWORT
+**Meine Antwort:** Der Hauptzweig mit dem fertigen Code des Projekts.
 
 ### 7. Was ist Markdown?
 
-**Meine Antwort:** DEINE ANTWORT
+**Meine Antwort:** Eine Markupsprache, mit der man Texte mit Symbolen formatieren kann.
 
 ### 8. Was bedeutet GitHub-Flavoured Markdown (GFM)?
 
-**Meine Antwort:** DEINE ANTWORT
+**Meine Antwort:** eine erweiterte Markdown-Version von GitHub, die mehrere Funkionen bietet.
 
 ---
 
@@ -54,15 +53,15 @@ Ich kann die wichtigsten Begriffe rund um **Git**, **GitHub**, den **GitHub-Flow
 
 `Commit · Issue · Pull Request · Branch`
 
-**Meine Antwort:** DEINE ANTWORT
+**Meine Antwort:** Issue -> Branch -> Commit -> Pull Request
 
 ### 10. Was ist ein Issue?
 
-**Meine Antwort:** DEINE ANTWORT
+**Meine Antwort:** Issue werden verwendet, um Ideen, Feedback, Aufgaben oder Fehler für die Arbeit auf GitHub nachzuverfolgen.
 
 ### 11. Was ist ein Branch?
 
-**Meine Antwort:** DEINE ANTWORT
+**Meine Antwort:** Eine Kopie des Projekts, auf der man sicher neue Dinge ausprobieren oder ändern kann, ohne den funktionierenden Hauptcode (main) zu beschädigen.
 
 ### 12. Warum arbeitet man für eine Änderung häufig auf einem eigenen Branch?
 
