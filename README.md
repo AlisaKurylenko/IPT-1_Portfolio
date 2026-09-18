@@ -141,7 +141,7 @@ Ich kann die wichtigsten Begriffe rund um **Git**, **GitHub**, den **GitHub-Flow
 
 ### 30. Speichert `git push` deine noch nicht committeten Dateiänderungen?
 
-**Meine Antwort:** Nein, 'git push' überträgt bereits committete Änderungen. Uncommittete Änderungen im Arbeitsverzeichnis oder im Staging-Bereich bleiben lokal und werden nicht auf den Server hochgeladen.
+**Meine Antwort:** Nein, `git push` überträgt bereits committete Änderungen. Uncommittete Änderungen im Arbeitsverzeichnis oder im Staging-Bereich bleiben lokal und werden nicht auf den Server hochgeladen.
 
 ---
 
