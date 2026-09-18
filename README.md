@@ -205,7 +205,7 @@ Erstelle eine Liste mit mindestens drei Begriffen aus dieser Lernsession:
 
 Erstelle einen funktionierenden Markdown-Link zu GitHub oder Microsoft Learn:
 
-[Microsoft Learn]([https://learn.microsoft.com](https://learn.microsoft.com/de-de/plans/50nptqtxxnr6mo?learnerGroupId=50eac53d-2c0e-4ee4-8787-65247fd217f6&source=docs)
+[Microsoft Learn](https://learn.microsoft.com/de-de/plans/50nptqtxxnr6mo?learnerGroupId=50eac53d-2c0e-4ee4-8787-65247fd217f6&source=docs)
 
 ### 41. Bild
 
